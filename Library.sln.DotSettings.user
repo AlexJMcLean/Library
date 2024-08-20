@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AWebApplicationFactory_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003Fd7dbe7c4cc75f01532fb6ce687bce710e21c95e6c44fd11dbe73c87d22758_003FWebApplicationFactory_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b1bdbdda_002D1bdd_002D4327_002Dbf3e_002D3a2cbc7a2ca8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Then201CreatedResponseIsReturned" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::ECF3216D-B892-4408-96CA-FC2A1D17FB10::net8.0::Library.ApiTests.Books.Create.GivenCreateBookCalledWhenRequestIsValid&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::ECF3216D-B892-4408-96CA-FC2A1D17FB10::net8.0::Library.ApiTests.Books.Create.GivenCreateBookIsCalledWhenRequestIsInvalid.WhenNoTitleIsProvided_ThenReturnsBadRequest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::ECF3216D-B892-4408-96CA-FC2A1D17FB10::net8.0::Library.ApiTests.Books.Create.GivenCreateBookIsCalledWhenRequestIsInvalid.WhenNoAuthorIsProvided_ThenReturnsBadRequest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
